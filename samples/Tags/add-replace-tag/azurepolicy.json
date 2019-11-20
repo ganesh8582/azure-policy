@@ -1,7 +1,7 @@
 {
    "properties": {
-      "displayName": "Add or replace a tag on resources",
-      "policyType": "BuiltIn",
+      "displayName": "Policy_Project_ID_123",
+      "policyType": "Custom",
       "mode": "Indexed",
       "description": "Adds or replaces the specified tag and value when any resource is created or updated. Existing resources can be remediated by triggering a remediation task. Does not modify tags on resource groups.",
       "metadata": {
